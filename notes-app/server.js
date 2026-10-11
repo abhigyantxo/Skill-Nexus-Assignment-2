@@ -40,7 +40,7 @@ function authenticateToken(req, res, next) {
 
 // Home
 app.get("/", (req, res) => {
-  res.send("Skill Nexus Notes API is running!");
+  res.send("Skill Nexis Notes API is running!");
 });
 
 // Create note

@@ -16,7 +16,7 @@ mongoose
 
 // Home
 app.get("/", (req, res) => {
-  res.send("Skill Nexus To-Do API is running!");
+  res.send("Skill Nexis To-Do API is running!");
 });
 
 // GET all tasks

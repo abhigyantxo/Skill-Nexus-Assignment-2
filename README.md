@@ -1,6 +1,6 @@
-# Skill Nexus Assignment 2
+# Skill Nexis Assignment 2
 
-This repository contains the backend projects developed for Skill Nexus Assignment 2.
+This repository contains the backend projects developed for Skill Nexis Assignment 2.
 
 ## Projects
 

@@ -17,7 +17,7 @@ mongoose
 
 // Home
 app.get("/", (req, res) => {
-  res.send("Skill Nexus Authentication API is running!");
+  res.send("Skill Nexis Authentication API is running!");
 });
 
 // Register
